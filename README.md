@@ -1,38 +1,43 @@
-👋 Hi, I’m BELLAHCENE CHAYMAE
-You can reach me at:
-📧 Email: bellahcene.chaymae@gmail.com
+# 👋 Hi, I’m **BELLAHCENE CHAYMAE**  
 
-🛠️ Technologies & Tools
+📩 **Email:** bellahcene.chaymae@gmail.com  
 
-.Programming Languages
-JavaScript
-PHP
+## 🛠️ Technologies & Tools  
 
-.Front-End
-React
-Next.js
-Vite
-Bootstrap
+### 🔹 Programming Languages  
+- JavaScript  
+- PHP  
 
-.Back-End
-Laravel
-Node.js (Express.js)
+### 🎨 Front-End Development  
+- React  
+- Next.js  
+- Vite  
+- Bootstrap  
 
-.Databases
-MySQL
-MongoDB
+### ⚙️ Back-End Development  
+- Laravel  
+- Node.js (Express.js)  
 
+### 🗄️ Databases  
+- MySQL  
+- MongoDB  
 
-🌟 Featured Projects
-AutoDeploy System
-An application that automatically clones, analyzes, and deploys full-stack applications from GitHub, GitLab, or Bitbucket repositories.
+---  
 
-Dice Game
-A fun and interactive dice game built with JavaScript.
+## 🌟 Featured Projects  
 
-Tic-Tac-Toe Game
-A classic Tic-Tac-Toe game with a modern twist, built with React.
+### 🚀 **AutoDeploy System**  
+An automated deployment app that clones, analyzes, and deploys full-stack applications from **GitHub, GitLab, or Bitbucket** repositories.  
 
-🤝 Let's Connect!
-Feel free to reach out if you’re interested in collaborating or have any questions!
-Thank you for visiting my profile!
+### 🎲 **Dice Game**  
+A fun and interactive dice game built with **JavaScript**.  
+
+### ❌⭕ **Tic-Tac-Toe Game**  
+A modern take on the classic **Tic-Tac-Toe**, built with **React**.  
+
+---  
+
+## 🤝 Let’s Connect!  
+I'm always open to collaboration and exciting projects. Feel free to reach out if you’d like to connect or discuss opportunities!  
+
+🚀 **Thanks for visiting my profile!**  
