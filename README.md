@@ -3,20 +3,26 @@ You can reach me at:
 📧 Email: bellahcene.chaymae@gmail.com
 
 🛠️ Technologies & Tools
-Programming Languages
+
+.Programming Languages
 JavaScript
 PHP
-Front-End
+
+.Front-End
 React
 Next.js
 Vite
 Bootstrap
-Back-End
+
+.Back-End
 Laravel
 Node.js (Express.js)
-Databases
+
+.Databases
 MySQL
 MongoDB
+
+
 🌟 Featured Projects
 AutoDeploy System
 An application that automatically clones, analyzes, and deploys full-stack applications from GitHub, GitLab, or Bitbucket repositories.
