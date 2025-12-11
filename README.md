@@ -2,16 +2,6 @@
 
 📬 **Email:** [bellahcene.chaymae@gmail.com](mailto:bellahcene.chaymae@gmail.com)  
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bchaymae&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Bchaymae&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bchaymae&theme=dark&hide_border=false&include_all_commits=false&layout=compact)  
-
-[![Profile Visits](https://visitcount.itsvg.in/api?id=Bchaymae&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 ## 🛠️ Technologies & Tools  
 
