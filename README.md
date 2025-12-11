@@ -17,9 +17,9 @@ I aim to make every project meaningful.
 ## 💻 Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -32,11 +32,9 @@ I aim to make every project meaningful.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bchaymae&theme=dark)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bchaymae&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bchaymae&layout=compact&theme=dark)
-
+## 📊 GitHub Stats 
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=BCHAYMAE&theme=dark&hide_border=false) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bchaymae&layout=compact&theme=dark) 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bchaymae&color=0e75b6&style=flat-square)](https://github.com/Bchaymae)
 
 ---
