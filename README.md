@@ -32,9 +32,12 @@ I aim to make every project meaningful.
 
 ---
 
-## 📊 GitHub Stats 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=BCHAYMAE&theme=dark&hide_border=false) 
-![Profile Views](https://komarev.com/ghpvc/?username=Bchaymae&color=0e75b6&style=flat-square)](https://github.com/Bchaymae)
+## 📊 GitHub Stats
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bchaymae&theme=dark)  
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Bchaymae&color=0e75b6&style=flat-square)](https://github.com/Bchaymae)
+
 
 ---
 
