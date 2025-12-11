@@ -34,7 +34,6 @@ I aim to make every project meaningful.
 
 ## 📊 GitHub Stats 
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=BCHAYMAE&theme=dark&hide_border=false) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bchaymae&layout=compact&theme=dark) 
 [![Profile Views](https://komarev.com/ghpvc/?username=Bchaymae&color=0e75b6&style=flat-square)](https://github.com/Bchaymae)
 
 ---
