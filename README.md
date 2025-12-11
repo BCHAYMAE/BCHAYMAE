@@ -1,45 +1,48 @@
 # 👋 Hi, I’m **BELLAHCENE CHAYMAE**  
 
+📬 **Email:** [bellahcene.chaymae@gmail.com](mailto:bellahcene.chaymae@gmail.com)  
 
-📩 **Email:** bellahcene.chaymae@gmail.com  
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bchaymae&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Bchaymae&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bchaymae&theme=dark&hide_border=false&include_all_commits=false&layout=compact)  
+
+[![Profile Visits](https://visitcount.itsvg.in/api?id=Bchaymae&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 ## 🛠️ Technologies & Tools  
 
-
 ### 🔹 Programming Languages  
-- JavaScript  
-- PHP  
+JavaScript, PHP  
 
 ### 🎨 Front-End Development  
-- React  
-- Next.js  
-- Vite  
-- Bootstrap  
+React, Next.js, Vite, Bootstrap  
 
 ### ⚙️ Back-End Development  
-- Laravel  
-- Node.js (Express.js)  
+Laravel, Node.js (Express.js)  
 
 ### 🗄️ Databases  
-- MySQL  
-- MongoDB  
+MySQL, MongoDB  
 
----  
+---
 
 ## 🌟 Featured Projects  
 
 ### 🚀 **AutoDeploy System**  
-An automated deployment app that clones, analyzes, and deploys full-stack applications from **GitHub, GitLab, or Bitbucket** repositories.  
+Automated deployment app that clones, analyzes, and deploys full-stack applications from **GitHub, GitLab, or Bitbucket** repositories.  
 
 ### 🎲 **Dice Game**  
-A fun and interactive dice game built with **JavaScript**.  
+Fun and interactive dice game built with **JavaScript**.  
 
 ### ❌⭕ **Tic-Tac-Toe Game**  
 A modern take on the classic **Tic-Tac-Toe**, built with **React**.  
 
----  
+---
 
 ## 🤝 Let’s Connect!  
-I'm always open to collaboration and exciting projects. Feel free to reach out if you’d like to connect or discuss opportunities!  
+I'm always open to collaboration and exciting projects. Feel free to reach out to discuss opportunities!  
 
-🚀 **Thanks for visiting my profile!**  
+💻 **Thanks for visiting my profile!**  
