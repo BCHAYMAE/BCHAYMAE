@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:1C2541,100:3A86FF&text=BELLAHCENE%20CHAYMAE&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Building%20modern%20web%20experiences&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:1C2541,100:3A86FF&text=CHAYMAE%20BELLAHCENE&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Building%20modern%20web%20experiences&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ and I'm currently growing toward a DevOps path by focusing on Docker, CI/CD, aut
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,Next.js,nodejs,php,laravel,go,mysql,mongodb,docker,nginx,git,github,gitlab,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,go,mysql,mongodb,docker,nginx,git,github,gitlab,postman,figma,vscode" />
 </p>
 
 ---
