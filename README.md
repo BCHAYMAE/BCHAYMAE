@@ -7,14 +7,11 @@
 </p>
 
 <p align="center">
-  Full-Stack Developer focused on building clean, modern, and useful web applications.<br>
-  I enjoy turning ideas into real products and currently growing toward DevOps and deployment automation.
+  Full-Stack Developer who enjoys building web applications with React, Node.js and Laravel.<br/>
+Currently learning DevOps practices and experimenting with Docker, Nginx and deployment automation.
 </p>
 
 <p align="center">
-  <a href="mailto:bellahcene.chaymae@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/chaymae-bellahcene-93a780336">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
@@ -28,16 +25,14 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBodGF4dWJqZTVva3Y0bG9oNm9mN3l5MDA5M3lydGJjYzBocHNsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="28"> About Me
+## <img src="https://img.icons8.com/color/48/user-female-circle.png" width="24"> About Me
 
-<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="girl coding" width="260" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-I’m **Chaymae Bellahcene**, a **Full-Stack Developer** who enjoys building reliable, modern, and user-friendly web applications.
+I’m **Chaymae Bellahcene**, a **Full-Stack Developer** I build reliable, modern web applications.
 
-- Building with **React, Node.js, Laravel, MySQL, and MongoDB**
-- Interested in **Docker, Nginx, CI/CD, and deployment workflows**
-- Learning by creating real projects and solving practical problems
-- Focused on clean UI, strong logic, and useful products
+I'm a full-stack developer building modern web applications with React, Node.js, Laravel, MySQL, and MongoDB, 
+and I'm currently growing toward a DevOps path by focusing on Docker, CI/CD, automation, and cloud-ready deployment practices.
 
 <br clear="right"/>
 
@@ -46,16 +41,7 @@ I’m **Chaymae Bellahcene**, a **Full-Stack Developer** who enjoys building rel
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,go,mysql,mongodb,docker,nginx,git,github,gitlab,postman,figma,vscode" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BCHAYMAE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCHAYMAE&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,react,Next.js,nodejs,php,laravel,go,mysql,mongodb,docker,nginx,git,github,gitlab,postman,figma,vscode" />
 </p>
 
 ---
@@ -120,9 +106,7 @@ A browser-based educational game inspired by maze games like Pac-Man, designed t
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:bellahcene.chaymae@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1e293b?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
   <a href="https://www.linkedin.com/in/chaymae-bellahcene-93a780336">
     <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
@@ -134,3 +118,4 @@ A browser-based educational game inspired by maze games like Pac-Man, designed t
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B132B,50:1C2541,100:3A86FF" />
 </p>
+
