@@ -4,28 +4,33 @@
 </p>
 
 <p align="center">
-  Building clean, modern, and useful web experiences.
+  Full-Stack Developer who enjoys building web applications with React, Node.js and Laravel.
+Currently learning DevOps practices and experimenting with Docker, Nginx and deployment automation
 </p>
 
 <p align="center">
-  <a href="mailto:bellahcene.chaymae@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/chaymae-bellahcene-93a780336">LinkedIn</a> •
-  <a href="https://github.com/BCHAYMAE">GitHub</a> •
-  <a href="https://portfolio-bchaymae-nvw1.vercel.app/">Portfolio</a>
+  <a href="mailto:bellahcene.chaymae@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chaymae-bellahcene-93a780336">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://github.com/BCHAYMAE">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolio-bchaymae-nvw1.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I’m **Bellahcene Chaymae**, a **Full-Stack Developer** passionate about turning ideas into real digital products.
+I’m **Chaymae Bellahcene **, a **Full-Stack Developer** I build reliable, modern web applications.
 
-I enjoy creating:
-- clean and responsive front-end interfaces
-- solid back-end logic and APIs
-- practical projects that solve real problems
-
-I’m always learning, improving, and exploring new technologies through hands-on work.
+I'm a full-stack developer building modern web applications with React, Node.js, Laravel, MySQL, and MongoDB, 
+and I'm currently growing toward a DevOps path by focusing on Docker, CI/CD, automation, and cloud-ready deployment practices.
 
 ---
 
@@ -58,13 +63,19 @@ I’m always learning, improving, and exploring new technologies through hands-o
 ## Featured Projects
 
 ### AutoDeploy System
-A platform that automates the process of cloning, analyzing, and deploying full-stack applications from repository URLs.
+A full-stack deployment tool that automatically clones GitHub repositories
+and generates Dockerfiles.
 
-### Tic-Tac-Toe Game
-A modern React implementation of the classic game with a clean interactive interface.
+• Detects project type automatically
+• Generates Docker configuration
+• Deploys with Nginx reverse proxy 
+🔗 [View Project](https://github.com/BCHAYMAE/deployment_app)
 
-### Dice Game
-A simple and fun browser game built with JavaScript.
+### AI Adventures
+It's a browser-based educational game inspired by classic maze games like Pac-Man, where players explore artificial intelligence concepts through interactive challenges. 
+🔗 [View Project](https://github.com/BCHAYMAE/ai_learning)
+🔗 [Demo](https://ai-adventures.netlify.app/)
+
 
 ---
 
@@ -72,7 +83,7 @@ A simple and fun browser game built with JavaScript.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BCHAYMAE&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=BCHAYMAE&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCHAYMAE&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
