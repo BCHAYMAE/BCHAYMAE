@@ -1,11 +1,9 @@
 <h1 align="center">BELLAHCENE CHAYMAE</h1>
-<p align="center">
-  Full-Stack Developer
-</p>
+<p align="center"><strong>Full-Stack Developer</strong></p>
 
 <p align="center">
-  Full-Stack Developer who enjoys building web applications with React, Node.js and Laravel.
-Currently learning DevOps practices and experimenting with Docker, Nginx and deployment automation
+  Full-Stack Developer focused on building modern web applications with React, Node.js, and Laravel.<br/>
+  Currently exploring DevOps practices through Docker, Nginx, CI/CD, and deployment automation.
 </p>
 
 <p align="center">
@@ -27,10 +25,10 @@ Currently learning DevOps practices and experimenting with Docker, Nginx and dep
 
 ## About Me
 
-I’m **Chaymae Bellahcene **, a **Full-Stack Developer** I build reliable, modern web applications.
+I’m **Chaymae Bellahcene**, a **Full-Stack Developer** who enjoys building reliable, modern, and user-friendly web applications.
 
-I'm a full-stack developer building modern web applications with React, Node.js, Laravel, MySQL, and MongoDB, 
-and I'm currently growing toward a DevOps path by focusing on Docker, CI/CD, automation, and cloud-ready deployment practices.
+My work mainly focuses on the full stack with **React, Node.js, Laravel, MySQL, and MongoDB**.  
+I’m also growing toward a **DevOps** path by learning more about **Docker, CI/CD, automation, and deployment workflows**.
 
 ---
 
@@ -41,6 +39,7 @@ and I'm currently growing toward a DevOps path by focusing on Docker, CI/CD, aut
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
   <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8" />
 </p>
 
@@ -49,6 +48,7 @@ and I'm currently growing toward a DevOps path by focusing on Docker, CI/CD, aut
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
 </p>
 
 <p align="center">
@@ -63,32 +63,18 @@ and I'm currently growing toward a DevOps path by focusing on Docker, CI/CD, aut
 ## Featured Projects
 
 ### AutoDeploy System
-A full-stack deployment tool that automatically clones GitHub repositories
-and generates Dockerfiles.
+A full-stack deployment tool that automates the process of cloning GitHub repositories and generating deployment-ready configurations.
 
-• Detects project type automatically
-• Generates Docker configuration
-• Deploys with Nginx reverse proxy 
+- Detects the project type automatically
+- Generates Dockerfiles and Docker configuration
+- Supports deployment with Nginx as a reverse proxy
+
 🔗 [View Project](https://github.com/BCHAYMAE/deployment_app)
 
 ### AI Adventures
-It's a browser-based educational game inspired by classic maze games like Pac-Man, where players explore artificial intelligence concepts through interactive challenges. 
+A browser-based educational game inspired by classic maze games like Pac-Man, designed to introduce artificial intelligence concepts through interactive challenges.
+
 🔗 [View Project](https://github.com/BCHAYMAE/ai_learning)
-🔗 [Demo](https://ai-adventures.netlify.app/)
-
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BCHAYMAE&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCHAYMAE&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCHAYMAE&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 ---
 
