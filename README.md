@@ -1,83 +1,136 @@
-<h1 align="center">BELLAHCENE CHAYMAE</h1>
-<p align="center"><strong>Full-Stack Developer</strong></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B132B,50:1C2541,100:3A86FF&text=BELLAHCENE%20CHAYMAE&fontColor=ffffff&fontSize=38&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Building%20modern%20web%20experiences&descAlignY=58&animation=fadeIn" />
+</p>
 
 <p align="center">
-  Full-Stack Developer focused on building modern web applications with React, Node.js, and Laravel.<br/>
-  Currently exploring DevOps practices through Docker, Nginx, CI/CD, and deployment automation.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3A86FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Laravel;Learning+DevOps+%26+Deployment+Automation;Docker+%7C+Nginx+%7C+CI%2FCD" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Full-Stack Developer focused on building clean, modern, and useful web applications.<br>
+  I enjoy turning ideas into real products and currently growing toward DevOps and deployment automation.
 </p>
 
 <p align="center">
   <a href="mailto:bellahcene.chaymae@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/chaymae-bellahcene-93a780336">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://github.com/BCHAYMAE">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://portfolio-bchaymae-nvw1.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBodGF4dWJqZTVva3Y0bG9oNm9mN3l5MDA5M3lydGJjYzBocHNsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="28"> About Me
+
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I’m **Chaymae Bellahcene**, a **Full-Stack Developer** who enjoys building reliable, modern, and user-friendly web applications.
 
-My work mainly focuses on the full stack with **React, Node.js, Laravel, MySQL, and MongoDB**.  
-I’m also growing toward a **DevOps** path by learning more about **Docker, CI/CD, automation, and deployment workflows**.
+- Building with **React, Node.js, Laravel, MySQL, and MongoDB**
+- Interested in **Docker, Nginx, CI/CD, and deployment workflows**
+- Learning by creating real projects and solving practical problems
+- Focused on clean UI, strong logic, and useful products
+
+<br clear="right"/>
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-  <img src="https://img.shields.io/badge/Go-111827?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,php,laravel,go,mysql,mongodb,docker,nginx,git,github,gitlab,postman,figma,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-</p>
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-111827?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BCHAYMAE&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCHAYMAE&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### AutoDeploy System
-A full-stack deployment tool that automates the process of cloning GitHub repositories and generating deployment-ready configurations.
+<table>
+<tr>
+<td width="50%">
 
-- Detects the project type automatically
-- Generates Dockerfiles and Docker configuration
-- Supports deployment with Nginx as a reverse proxy
+### 🚀 AutoDeploy System
+A full-stack deployment tool that automates repository analysis and generates deployment-ready configuration.
+
+**Highlights**
+- Detects project type automatically
+- Generates Docker configuration
+- Uses Nginx reverse proxy
+- Built for deployment automation
 
 🔗 [View Project](https://github.com/BCHAYMAE/deployment_app)
 
-### AI Adventures
-A browser-based educational game inspired by classic maze games like Pac-Man, designed to introduce artificial intelligence concepts through interactive challenges.
+</td>
+<td width="50%">
+
+### 🎮 AI Adventures
+A browser-based educational game inspired by maze games like Pac-Man, designed to teach AI concepts through interactive play.
+
+**Highlights**
+- Game-based learning
+- JavaScript-powered interactions
+- AI-themed challenges
+- Creative educational concept
 
 🔗 [View Project](https://github.com/BCHAYMAE/ai_learning)
 
+</td>
+</tr>
+</table>
+
 ---
 
+## Tools I Work With
+
 <p align="center">
-  Thanks for visiting my profile.
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=009639" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-0f172a?style=for-the-badge&logo=gitlab&logoColor=FC6D26" />
+  <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:bellahcene.chaymae@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1e293b?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chaymae-bellahcene-93a780336">
+    <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://portfolio-bchaymae-nvw1.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B132B,50:1C2541,100:3A86FF" />
 </p>
