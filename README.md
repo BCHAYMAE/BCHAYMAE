@@ -18,7 +18,7 @@ Currently learning DevOps practices and experimenting with Docker, Nginx and dep
   <a href="https://github.com/BCHAYMAE">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://portfolio-bchaymae-nvw1.vercel.app/">
+  <a href="https://portfolio-bchaymae.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -110,7 +110,7 @@ A browser-based educational game inspired by maze games like Pac-Man, designed t
   <a href="https://www.linkedin.com/in/chaymae-bellahcene-93a780336">
     <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://portfolio-bchaymae-nvw1.vercel.app/">
+  <a href="https://portfolio-bchaymae.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
